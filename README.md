@@ -1,4 +1,4 @@
-# Car-Driving-Behavioral-Cloning
+# Behavioral_Cloning_Human_Car_Driving
 [image1]: ./examples/Video.jpg "Video"
 
 Project executed as part of the Udacity Self Driving Car Nanodegree,
